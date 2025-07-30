@@ -39,6 +39,14 @@ This is a **responsive personal portfolio website** built with **Vite**, **React
 ├── tailwind.config.js # Tailwind custom configuration
 └── tsconfig.json # TypeScript configuration
 
+#project Img#
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2ab4d975-007c-409f-a161-612977140eba" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/79cd8499-8bd1-4e38-9009-0c53c3c6ff32" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3bf1e107-2773-4c05-99b6-ab3be8de1022" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/42758161-cd4e-48d2-ac3b-57b7f011388a" />
+
+
 
 ## 📸 Features
 
@@ -48,6 +56,7 @@ This is a **responsive personal portfolio website** built with **Vite**, **React
 - Animated sections on scroll
 - Project cards with live/demo and source code links
 - Contact form (basic or with email support via EmailJS/Formspree)
+
 
 ## 🔧 Installation
 
@@ -73,11 +82,5 @@ npm run lint
 npm run format
 
 
-#project Img#
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2ab4d975-007c-409f-a161-612977140eba" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/79cd8499-8bd1-4e38-9009-0c53c3c6ff32" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3bf1e107-2773-4c05-99b6-ab3be8de1022" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/42758161-cd4e-48d2-ac3b-57b7f011388a" />
-https://github.com/user-attachments/assets/da13ceee-f587-4d14-b47d-14b536158362
 
