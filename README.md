@@ -71,21 +71,8 @@ Copy
 Edit
 npm run lint
 npm run format
-📬 Contact
-If you'd like to connect:
 
-Email: [your-email@example.com]
 
-LinkedIn: [your-linkedin-url]
-
-GitHub: https://github.com/Rushikesh-ingle
-
-Created with ❤️ using Vite + React + Tailwind
-© 2025 Rushikesh Ingle
-
-yaml
-Copy
-Edit
 
 ---
 
